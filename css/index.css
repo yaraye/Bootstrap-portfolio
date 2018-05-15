@@ -1,0 +1,38 @@
+
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 35px;
+  color: #777;
+}
+.navbar-brand {
+  border: 1px solid #dddddd;
+  margin-left: 200px;
+  float: left;
+  
+  color: white;  
+  padding: 10px;
+  background: #4aaaa5;
+  font-weight: bold; 
+  text-align: center;
+  margin-top:20px;
+
+}
+.container-border {
+    border: 1px solid black;
+
+
+
+}
+img{
+  width:250px;
+   height: 250px;
+}
+.footer {
+    position: fixed;
+    background: #666666; 
+    left: 0;
+    bottom: 0;
+    width: 100%;  
+    border-top: 10px solid #4aaaa5;
+  }
