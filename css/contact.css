@@ -1,14 +1,19 @@
-body {
-  background: pink;}
+.container{
+    width: 100%;
+    max-width: 960px;
+    height: auto;
+    clear: both;
+    border: 1px solid #ddd;
+    background: #fff;
+    margin: 70px;
+    margin-left:15%; 
+    margin-right: 15%;
+    padding-bottom: 20px; 
+  }
+  
+  h2 {margin-bottom: 20px;}
 
+  #exampleFormControlTextarea1 {
+    height: 200px;
 
-
-
-.footer {
-    position: fixed;
-    background: #666666; 
-    left: 0;
-    bottom: 0;
-    width: 100%;  
-    border-top: 10px solid #4aaaa5;
   }
