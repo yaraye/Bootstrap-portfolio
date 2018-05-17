@@ -70,5 +70,9 @@ h1 {
     border-top: 8px solid #4aaaa5;
     height: 50px;
   }
- 
+
+img.thumbnail {
+  height: 100%;
+  width: 100%;
+}
  

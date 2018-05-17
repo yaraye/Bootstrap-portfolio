@@ -9,6 +9,11 @@
   margin-right: 15%;
 }
 
+.floated{
+  float: left;
+  width: 150px;
+  
+}
 
 img{
   width: 200px;
