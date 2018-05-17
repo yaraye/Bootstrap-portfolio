@@ -1,5 +1,28 @@
+.container{
+    width: 100%;
+    max-width: 960px;
+    height: auto;
+    clear: both;
+    border: 1px solid #ddd;
+    background: #fff;
+    margin: 70px;
+    margin-left:15%; 
+    margin-right: 15%;
+    padding-bottom: 20px; 
+  }
 
-  img {
-      width: 200px;
-      height: 200px;
+  h2 {
+  position: absolute;
+  bottom: 20px;
+  width: 94%;
+  padding: 15px;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  }
+
+  img{
+    width: auto;
   }
