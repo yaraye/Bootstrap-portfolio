@@ -15,12 +15,8 @@
   
 }
 
-img{
-  width: 200px;
-  height: auto;
-}
+
 
 .caption {
-  margin-right: auto;
-  }
-
+  float: none;
+}
