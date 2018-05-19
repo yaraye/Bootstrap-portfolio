@@ -1,15 +1,14 @@
 .container{
-    width: 100%;
-    max-width: 960px;
-    height: auto;
-    clear: both;
-    border: 1px solid #ddd;
-    background: #fff;
-    margin: 70px;
-    margin-left:15%; 
-    margin-right: 15%;
-    padding-bottom: 20px; 
-  }
+  width: 100%;
+  max-width: 960px;
+  clear: both;
+  border: 1px solid #ddd;
+  background: #fff;
+  margin: 70px;
+  margin-left:15%;
+  margin-right: 15%;
+}
+
   
   h1 {margin-bottom: 20px;}
 

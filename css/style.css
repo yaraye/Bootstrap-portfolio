@@ -6,17 +6,17 @@ body {
     background-image: url("../images/concrete_seamless.png")}
 
 .container-fluid {
-  
+  font-family: Georgia, 'Times New Roman', Times, serif;  
   z-index: 99;
   width: 100%;
   border-bottom: 2px solid #ccc;
-  background: #fff;
+  background: #ffffff;
   height: auto; 
+  display: block;
 }
 
 #name {
   color: #fff;
-  width: 250px;
   height: 90px;
   font-size: 30px;
   background:#4aaaa5;
@@ -34,18 +34,17 @@ a {
   border-left: 1px solid #efefef; 
 }
 
-.nav-left {
-  margin-top: 20px;
-  margin-right: 180px;
-  margin-top: 25px;
-  
-}
+
 .main-container {
     margin-top: 130px;
-    margin-left: 30px;
-    margin-right: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
     height: auto;
+    padding-bottom: 40px;
+    border-color: #dddddd;
+    position: relative;   
 }
+
 
 h1 {
     font-family: Georgia, Times, "Times New Roman", serif;
@@ -56,6 +55,7 @@ h1 {
     line-height: 49px;
     border-bottom: 3px solid #ddd;
     margin-left: 20px;
+    clear: both;
   }
   h2 {
     position: absolute;
@@ -81,26 +81,20 @@ h1 {
     background: #666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
+    margin-bottom: 0;
   }
 
-img.thumbnail {
+img {
   height: 100%;
   width: 100%;
-  float: none;
+  float: left;
 }
 
-img {
-  width: 20px;
-  margin: 20px 0 25px;
-  overflow: auto;
-  margin-left: 20px;
+
+p {
+  float: left;
+  line-height: 1.6;
+  font-family: Arial, Helvetica, sans-serif;
  
-  
 }
-.caption {
-	position: relative;
-	
-
-}
-
-
+ 
