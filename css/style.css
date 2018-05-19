@@ -32,17 +32,18 @@ a {
   margin-left: 15px;
   line-height: 18px;
   border-left: 1px solid #efefef; 
+ 
 }
 
 
 .main-container {
-    margin-top: 130px;
+   
     margin-left: 5%;
     margin-right: 5%;
     height: auto;
     padding-bottom: 40px;
     border-color: #dddddd;
-    position: relative;   
+       
 }
 
 
@@ -59,7 +60,7 @@ h1 {
   }
   h2 {
     position: absolute;
-    bottom: 20px;
+    bottom: 20px; 
     width: 88%;
     padding: 15px;
     font-weight: 300;
@@ -67,21 +68,20 @@ h1 {
     color: #fff;
     text-align: center;
     background: #4aaaa5;
-    margin-left:23px;
+    margin-left:5px;
     }
   
 
-.footer {
+footer {
+  position: sticky;
     padding: 30px 0;
-    clear: both;
     font-size: 12px;
     color: #fff;
     color: #ccc;
     text-align: center;
     background: #666;
     border-top: 8px solid #4aaaa5;
-    height: 50px;
-    margin-bottom: 0;
+    margin: 10px 0 0 0;
   }
 
 img {
